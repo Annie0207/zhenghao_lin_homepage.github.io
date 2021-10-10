@@ -9,6 +9,6 @@ Zhenghao Lin
 - [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2021/)
 - [Project Objective]
 - [Demo]
-- [Screenshot]
+- [Screenshot](./asset/screenshot)
 
 ## Instructions to build
