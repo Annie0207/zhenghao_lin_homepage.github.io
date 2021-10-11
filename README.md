@@ -12,7 +12,9 @@ Zhenghao Lin
 - [Screenshot](https://github.com/gyouzazuoyg/Personal-Home-Page/blob/17774e753a478057e4c1006e335b29992e06a628/asset/screenshot.png)
 
 ## Instructions to build
+- Online:
 - Access by the address: https://gyouzazuoyg.github.io/zhenghao_lin_homepage.github.io/
-- or
+------------
+- Local:
 - Download the whole project. At the root, run "reload -b" to run the page.
 - If "reload" is not installed, run "npm install -g reload" to install it.
