@@ -1,12 +1,27 @@
 {
-  "name": "zhenghao_lin_homepage",
+  "name": "zhenghao_lin_homepage.github.io",
   "version": "1.0.0",
   "description": "Zhenghao Lin",
-  "main": "index.js",
+  "main": ".eslintrc.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2",
+    "prettier-eslint": "^13.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyouzazuoyg/zhenghao_lin_homepage.github.io.git"
+  },
   "keywords": [],
-  "author": "Zhenghao Lin",
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gyouzazuoyg/zhenghao_lin_homepage.github.io/issues"
+  },
+  "homepage": "https://github.com/gyouzazuoyg/zhenghao_lin_homepage.github.io#readme"
 }
