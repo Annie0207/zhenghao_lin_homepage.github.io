@@ -20,3 +20,4 @@ Zhenghao Lin
 - If "reload" is not installed, run "npm install -g reload" to install it.
 
 -- Anni: Add project objective, screenshot of the project, tech requirements to make a better README. --
+-- Anni: I can't hear your video, can you double check? --
