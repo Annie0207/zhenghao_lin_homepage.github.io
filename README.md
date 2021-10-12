@@ -19,3 +19,4 @@ Zhenghao Lin
 - Download the whole project. At the root, run "reload -b" to run the page.
 - If "reload" is not installed, run "npm install -g reload" to install it.
 
+-- Anni: Add project objective, screenshot of the project, tech requirements to make a better README. --
